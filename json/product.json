@@ -6,7 +6,7 @@
       "category": "Carregador",
       "subCategory": "Cabos",
       "description": "Cabo Original para iPhone Foxconn, Marca autorizada Apple",
-      "image": "../assets/Carregador/carregadorIos.jpg",
+      "image": "../assets/Carregador/carregadorIos.jpeg",
       "brand": "Foxcon"
     },
     {
@@ -66,7 +66,7 @@
       "category": "Carregador",
       "subCategory": "Completo",
       "description": "Carregador completo para Iphone OkGold",
-      "image": "../assets/Carregador/carregadorIos.jpg",
+      "image": "../assets/Carregador/carregadorIos.jpeg",
       "brand": "OkGold"
     },
     {
@@ -156,7 +156,7 @@
       "category": "Fones",
       "subCategory": "Bluetooth",
       "description": "Fones Bluetooth Xiaomi de primeira geração, escute músicas por até 6h.",
-      "image": "../assets/Fones/foneAirDots.jpg",
+      "image": "../assets/Fones/foneAirDots.jpeg",
       "brand": "Xiaomi"
     },
     {
@@ -166,7 +166,7 @@
       "category": "Fones",
       "subCategory": "Fio",
       "description": "Fones de ouvido para iPhone, excelente qualidade sonora",
-      "image": "../assets/Fones/foneHrebosIos.jpg",
+      "image": "../assets/Fones/foneHrebosIos.jpeg",
       "brand": "HRebos"
     },
     {
@@ -216,7 +216,7 @@
       "category": "Fones",
       "subCategory": "Fio",
       "description": "Fones de ouvidos Lehmox, otima qualidade de som",
-      "image": "../assets/Fones/foneLehmox.jpg",
+      "image": "../assets/Fones/foneLehmox.jpeg",
       "brand": "Lehmox"
     },
     {
@@ -256,7 +256,7 @@
       "category": "Caixas",
       "subCategory": "Bluetooth",
       "description": "Caixa Lehmox com excelente qualidade de som",
-      "image": "../assets/Caixas/caixaLehmox.jpg",
+      "image": "../assets/Caixas/caixaLehmox.jpeg",
       "brand": "Lehmox"
     },
     {
@@ -266,7 +266,7 @@
       "category": "Caixas",
       "subCategory": "Radio",
       "description": "Caixa Lehmox com excelente qualidade de som, com Bluetooth",
-      "image": "../assets/Caixas/caixaInova.jpg",
+      "image": "../assets/Caixas/caixaInova.jpeg",
       "brand": "Inova"
     },
     {
@@ -276,7 +276,7 @@
       "category": "Caixas",
       "subCategory": "Bluetooth",
       "description": "Mini caixa de som bluetooth, com excelente qualidade de som",
-      "image": "../assets/Caixas/caixaMinifun.jpg",
+      "image": "../assets/Caixas/caixaMinifun.jpeg",
       "brand": "Minifun"
     },
     {
@@ -346,7 +346,7 @@
       "category": "Smartwatch",
       "subCategory": "Smartwatch",
       "description": "Smartwatch WBS45",
-      "image": "../assets/smartWatch/smartWatch.jpg",
+      "image": "../assets/smartWatch/smartWatch.jpeg",
       "brand": "WBS"
     },
     {
@@ -366,7 +366,7 @@
       "category": "Peliculas",
       "subCategory": "3D",
       "description": "Pelicula de proteção em 3D, a melhor em quesito de segurança",
-      "image": "../assets/peliculas/pelicula3D.jpg",
+      "image": "../assets/peliculas/pelicula3D.jpeg",
       "brand": "Generic"
     },
     {
@@ -376,7 +376,7 @@
       "category": "Peliculas",
       "subCategory": "3D",
       "description": "Suporte de celular para carros",
-      "image": "../assets/peliculas/peliculaTraseira.jpg",
+      "image": "../assets/peliculas/peliculaTraseira.jpeg",
       "brand": "Generic"
     },
     {
@@ -386,7 +386,7 @@
       "category": "Peliculas",
       "subCategory": "Cerâmica",
       "description": "Pelicula de proteção em Cerâmica, a melhor em quesito de segurança e soft touch",
-      "image": "../assets/peliculas/peliculaCeramica.jpg",
+      "image": "../assets/peliculas/peliculaCeramica.jpeg",
       "brand": "Generic"
     },
     {
@@ -396,7 +396,7 @@
       "category": "Peliculas",
       "subCategory": "Vidro",
       "description": "Pelicula de proteção em Vidro",
-      "image": "../assets/peliculas/peliculaVidro.jpg",
+      "image": "../assets/peliculas/peliculaVidro.jpeg",
       "brand": "Generic"
     }
   ]
