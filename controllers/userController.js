@@ -1,25 +1,23 @@
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 const User = require('../models/User');
 
 // Controlador para registrar um novo usuário
 exports.registerUser = async (req, res) => {
     try {
-        const { name, email, password } = req.body;
+        const { name, email, password, isAdmin } = req.body;
 
         // Verificar se o usuário já existe no banco de dados
         const existingUser = await User.findOne({ email });
         if (existingUser) {
-            return res.status(400).json({ error: 'Este email já está sendo usado por outro usuário.' });
+            return res.status(400).json({ error: 'Este email já possui cadastro.' });
         }
-
-        // Criptografar a senha antes de armazená-la no banco de dados
-        const hashedPassword = await bcrypt.hash(password, 10);
 
         // Criar um novo usuário
         const newUser = new User({
             name,
             email,
-            password: hashedPassword
+            password,
+            isAdmin // A senha será automaticamente hashada pelo hook pre-save
         });
 
         // Salvar o novo usuário no banco de dados
